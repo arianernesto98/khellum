@@ -2,6 +2,9 @@
   My name is Kedir Enrique Lluch Milanes. I've been programming since I was 15 years old.
 </p>
 <p>
+  +79361117963 WhatsApp, kedir980210@gmail.com mail, @khellum (Telegram and GitHub)
+ </p>
+<p>
   In middle school I started to learn C++ and involved in competitive programming, been able to win
   two golden medals at national level and two bronze medal in the Caribbean International Informatics
   Contest (CIIC). With those achievements I earned my scholarship into Havana's University and started
@@ -51,4 +54,4 @@ Skills:
 </ul>
  Contact:
 
-+79361117963 WhatsApp, kedir980210@gmail.com mail, @khellum (Telegram and GitHub)
+
